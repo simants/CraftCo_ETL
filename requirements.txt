@@ -1,0 +1,7 @@
+Python Libraries::
+Pandas~=1.4.2
+requests~=2.27.1
+warcio~=1.7.4
+collections.defaultdict
+gzip
+io
